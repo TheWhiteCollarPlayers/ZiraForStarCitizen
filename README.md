@@ -1,5 +1,6 @@
 # ZiraForStarCitizen
 A Custom Voice Attack Profile developed for use with the game Star Citizen
+
 VERSION 1:
   Creation of Profile: "SC-Pilot"
     Profile focuses on implementing basic voice activated controls for pilots
