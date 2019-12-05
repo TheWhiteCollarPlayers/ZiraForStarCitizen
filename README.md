@@ -29,4 +29,8 @@ Run These Preflight Checks Everytime You Change Ships:
     
     C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Controls\Mappings
     
-    2) Go in game and under Options on the main menu, go to "Keybindings" then "Advanced Control Customizations" at the bottom of the screen. Select "Control Profiles" located at the lower right of the screen. Look for the entry labeled "Zira_VA_Mappings" select it and load the profile.
+    2) Go in game and under Options on the main menu, go to "Keybindings" then "Advanced Control Customizations" at the bottom of the screen. 
+    
+    Select "Control Profiles" located at the lower right of the screen. 
+    
+    Look for the entry labeled "Zira_VA_Mappings" select it and load the profile.
